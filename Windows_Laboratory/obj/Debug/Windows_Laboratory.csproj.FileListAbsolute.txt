@@ -1,0 +1,12 @@
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\bin\Debug\Windows_Laboratory.exe
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\bin\Debug\Windows_Laboratory.exe.config
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\obj\Debug\Windows_Laboratory.csproj.AssemblyReference.cache
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\obj\Debug\Windows_Laboratory.Form2.resources
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\obj\Debug\Windows_Laboratory.Form1.resources
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\obj\Debug\Windows_Laboratory.LoginForm.resources
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\obj\Debug\Windows_Laboratory.Properties.Resources.resources
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\obj\Debug\Windows_Laboratory.csproj.GenerateResource.cache
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\obj\Debug\Windows_Laboratory.csproj.CoreCompileInputs.cache
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\obj\Debug\Windows_Laboratory.exe
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\obj\Debug\Windows_Laboratory.pdb
+C:\Users\YANYAN\source\repos\Windows_Laboratory\Windows_Laboratory\bin\Debug\Windows_Laboratory.pdb
